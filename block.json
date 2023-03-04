@@ -1,0 +1,14 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "cbstdsys/comment-engagement-block",
+	"version": "0.1.0",
+	"title": "Comment Engagement Block",
+	"category": "widgets",
+	"icon": "admin-comments",
+	"description": "Engage readers to comment on your content by short-circuiting the way to your comment-form.",
+	"textdomain": "comment-engagement-block",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

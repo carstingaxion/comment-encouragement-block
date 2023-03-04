@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "cbstdsys/comment-engagement-block",
+	"version": "0.1.0",
+	"title": "Comment Engagement Block",
+	"category": "widgets",
+	"description": "Engage readers to comment on your content by short-circuiting the way to your comment-form.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "cbstdsys",
+	"editorScript": "file:../../../../build/comment-engagement-block.js",
+	"editorStyle": "file:../../../../build/comment-engagement-block.css",
+	"style": "file:../../../../build/style-comment-engagement-block.css"
+}

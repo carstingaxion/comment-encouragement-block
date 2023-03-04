@@ -1,0 +1,21 @@
+{
+	"name": "comment-engagement-block",
+	"version": "0.1.0",
+	"description": "Engage readers to comment on your content by short-circuiting the way to your comment-form.",
+	"author": "carstenbach",
+	"license": "GPL-3.0-or-later",
+	"homepage": "https://github.com/carstingaxion/comment-engagement-block",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^25.2.0"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "cbstdsys/shadow-comment-block",
+	"version": "0.1.0",
+	"title": "Shadow Comment Block",
+	"category": "widgets",
+	"description": "",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "cbstdsys",
+	"editorScript": "file:../../../../build/shadow-comment-block.js",
+	"editorStyle": "file:../../../../build/shadow-comment-block.css",
+	"style": "file:../../../../build/style-shadow-comment-block.css"
+}
